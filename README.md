@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SmellyMellonMan
 - 👀 I’m interested in developing.
-- 🌱 I’m currently learning the Apex coding language for Salesforce and Python and maybe Java.
+- 🌱 I’m currently learning the Apex coding language for Salesforce and Python.
 - 💞️ I’m looking to collaborate on studying for several certification exams.
 - 📫 How to reach me directly here or via email.
 
